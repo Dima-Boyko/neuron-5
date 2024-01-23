@@ -1,0 +1,22 @@
+body{
+	background: #3a3a3a;
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+	color: #fff;
+}
+.canter{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+}
+canvas{
+	width: 400px;
+	height: 400px;
+	margin-top: 20px;
+	background: #fff;
+
+	
+}
+
